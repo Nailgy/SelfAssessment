@@ -15,26 +15,26 @@
   - ECMAScript modules: 🖐️ used
   - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM: 👂 heard
-  - Modules as singletons
+  - Modules as singletons: h
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🖐️ used
   - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: h
   - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Coupling and cohesion: k
+  - Framework agnostic approach: h
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
+  - Clustering: h
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
-  - Web Streams API
+  - Web Streams API: h
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
@@ -43,12 +43,12 @@
   - Worker threads: 🖐️ used
   - Performance hooks
   - Native fetch and nodejs/undici: 🖐️ used
-  - async_hooks
+  - async_hooks: k
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - SharedArrayBuffer
+  - SharedArrayBuffer: h
   - Module `node:worker_threads`
   - Module `node:child_process`
   - MessageChannel, MessagePort
@@ -63,7 +63,7 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: h
   - Protocol agnostic approach
   - Fetch API: 🖐️ used
   - IncomingMessage
@@ -71,15 +71,15 @@
   - TCP/SSL: 🖐️ used
   - UDP: 🖐️ used
   - TLS: 🖐️ used
-  - Websocket
+  - Websocket: k
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Long polling: h
+  - REST: k
+  - RPC: k
+  - Routing: u
+  - DoS: h
+  - DDoS: k
   - XSS
   - Path traversal
   - CSRF
@@ -87,20 +87,20 @@
   - SQL injection
   - noDelay
   - keep-alive
-  - IP sticky sessions
+  - IP sticky sessions: h
 - Technique and tools
   - Native test runner: 👂 heard
   - Logging: 🖐️ used
-  - Application configuring
+  - Application configuring: h
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform
   - Back pressure
-  - Buffer
-  - Console
-  - Inspector
+  - Buffer: k
+  - Console: u
+  - Inspector: k
 - Data access
   - Data access layer: 🎓 known
   - Repository: 🖐️ used
@@ -113,7 +113,7 @@
   - `Error`: 🖐️ used
   - `error.cause`: 👂 heard
   - `error.code`: 👂 heard
-  - `error.message`:h
+  - `error.message`: h
   - `error.stack`: 👂 heard
   - `Error.captureStackTrace`: 🎓 known
   - How to avoid mixins: 👂 heard
@@ -123,7 +123,7 @@
   - Flame graph
   - Memory leaks: 🖐️ used
   - Resource leaks
-  - Data race: 👂 heard
+  - Data race: k
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons

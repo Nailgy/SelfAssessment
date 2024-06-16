@@ -5,18 +5,18 @@
   - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
   - Non-structured programming: 🖐️ used
-  - Functional programming: 🎓 known
+  - Functional programming: u
   - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🎓 known
   - Generic programming: 🎓 known
   - Concurrent computing: 👂 heard
-  - Asynchronous programming: 🎓 known
+  - Asynchronous programming: u
   - Parallel programming: 🎓 known
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages: h
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 🖐️ used
   - Actor model: 👂 heard
@@ -39,7 +39,7 @@
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: 👂 heard
+  - Abstract class: k
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class: 🎓 known
@@ -51,23 +51,23 @@
 - GRASP
   - Information expert
   - Creator
-  - Controller
+  - Controller: u
   - Indirection
-  - Low coupling
-  - High cohesion
+  - Low coupling: k
+  - High cohesion: k
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): u
+  - Open–closed principle (OCP): k
+  - Liskov substitution principle (LSP): h
+  - Interface segregation principle (ISP): k
+  - Dependency inversion principle (DIP): k
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 👂 heard
+  - Factory Method: k
   - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
+  - Adapter: k
   - Observer: 🎓 known
   - Strategy: 👂 heard
   - Facade: 👂 heard
@@ -87,5 +87,5 @@
   - Template Method: 👂 heard
   - Visitor
   - Reactor
-  - Active object
+  - Active object: h
   - Delegation: 👂 heard
