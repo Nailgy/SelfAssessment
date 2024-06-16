@@ -5,18 +5,18 @@
   - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
   - Non-structured programming: 🖐️ used
-  - Functional programming: 🎓 known
+  - Functional programming: 🖐️ used
   - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🎓 known
   - Generic programming: 🎓 known
   - Concurrent computing: 👂 heard
-  - Asynchronous programming: 🎓 known
+  - Asynchronous programming: 🖐️ used
   - Parallel programming: 🎓 known
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 🖐️ used
   - Actor model: 👂 heard
@@ -39,7 +39,7 @@
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: 👂 heard
+  - Abstract class: 🎓 known
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class: 🎓 known
@@ -51,23 +51,23 @@
 - GRASP
   - Information expert
   - Creator
-  - Controller
+  - Controller: 🖐️ used
   - Indirection
-  - Low coupling
-  - High cohesion
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 👂 heard
+  - Factory Method: 🎓 known
   - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
+  - Adapter: 🎓 known
   - Observer: 🎓 known
   - Strategy: 👂 heard
   - Facade: 👂 heard
@@ -87,5 +87,5 @@
   - Template Method: 👂 heard
   - Visitor
   - Reactor
-  - Active object
+  - Active object: 👂 heard
   - Delegation: 👂 heard

@@ -15,12 +15,12 @@
   - Column databases: 🎓 known
   - Navigational databases
   - Hierarchical databases: 👂 heard
-  - In-memory databases
+  - In-memory databases: 👂 heard
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL): 🎓 known
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms
@@ -28,7 +28,7 @@
   - Primary keys: 🖐️ used
   - Foreign keys: 🖐️ used
   - Transactions
-  - Views: 👂 heard
+  - Views: 🎓 known
   - Subqueries
   - Stored procedures
   - SQL functions: 👂 heard
@@ -44,38 +44,38 @@
   - `OFFSET`: 🎓 known
   - `ORDER BY`: 🖐️ used
   - `GROUP BY`: 🖐️ used
-  - `HAVING`: 🎓 known
+  - `HAVING`: 🖐️ used
   - `EXISTS`: 🖐️ used
-  - `JOIN`: 🎓 known
-  - `INNER JOIN`: 🎓 known
-  - `LEFT JOIN`: 🎓 known
-  - `RIGHT JOIN`: 🎓 known
-  - `UNION`: 🎓 known
-  - `DISTINCT`: 🎓 known
-  - `WHERE`: 🎓 known
-  - `LIKE`: 🎓 known
-  - `IN`: 🎓 known
-  - `BETWEEN`: 🎓 known
-  - `CREATE TABLE`: 🎓 known
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`: 🎓 known
-  - `DROP TABLE`: 🎓 known
-  - `PRIMARY KEY`: 🎓 known
-  - `FOREIGN KEY`: 🎓 known
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`: 🎓 known
   - `DEFAULT`: 🎓 known
-  - `INDEX`: 🎓 known
-  - `UNIQUE`: 🎓 known
-  - `GRANT`: 🎓 known
-  - `REVOKE`: 🎓 known
-  - `DENY`: 🎓 known
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
+  - `GRANT`: 🖐️ used
+  - `REVOKE`: 🖐️ used
+  - `DENY`: 🖐️ used
   - `EXPLAIN`: 🎓 known
 - Engines
-  - PostgreSQL: 👂 heard
+  - PostgreSQL: 🎓 known
   - Oracle: 👂 heard
-  - MySQL: 🎓 known
+  - MySQL: 🖐️ used
   - MariaDB: 👂 heard
   - MS SQL Server: 👂 heard
-  - Redis: 👂 heard
+  - Redis: 🎓 known
   - Rabbit: 👂 heard
   - MongoDB: 🖐️ used
   - Memcached: 👂 heard
@@ -86,7 +86,7 @@
   - Firebase: 👂 heard
 - Data engineering
   - Data warehousing: 👂 heard
-  - Business intelligence: 👂 heard
+  - Business intelligence: 🎓 known
   - Big data: 👂 heard
   - Data analysis: 👂 heard
   - AI tools: 👂 heard

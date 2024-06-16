@@ -102,13 +102,13 @@
   - Functor: 👂 heard
   - Monad: 👂 heard
   - Monoid: 👂 heard
-  - Generator: 🎓 known
+  - Generator: 🖐️ used
   - Coroutine: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - Structure: 🖐️ used
   - Record: 🖐️ used
-  - Enum: 🎓 known
+  - Enum: 🖐️ used
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
@@ -134,7 +134,7 @@
 - Networking
   - DNS: 🖐️ used
   - CDN: 🖐️ used
-  - CORS
+  - CORS: 🖐️ used
   - IPv4: 🖐️ used
   - IPv6: 🖐️ used
   - NAT: 🖐️ used
@@ -145,7 +145,7 @@
   - Compiler: 🖐️ used
   - Just-in-time compilation: 🖐️ used
   - Ahead-of-time compilation: 🖐️ used
-  - Transpiler
+  - Transpiler: 🎓 known
   - Linter: 🖐️ used
   - Polyfill: 🖐️ used
   - Interpreter: 🖐️ used
@@ -178,25 +178,25 @@
   - Improbability factor: 👂 heard
   - Accidental complexity: 🎓 known
   - Action at a distance: 👂 heard
-  - Spaghetti: 🎓 known
-  - Silver bullet: 🎓 known
-  - Not invented here: 🎓 known
-  - Dead code: 🎓 known
-  - Unreachable code: 🎓 known
-  - Duplicate code: 🎓 known
-  - Premature optimization: 🎓 known
-  - Micro-optimization: 🎓 known
+  - Spaghetti: 🖐️ used
+  - Silver bullet: 🖐️ used
+  - Not invented here: 🖐️ used
+  - Dead code: 🖐️ used
+  - Unreachable code: 🖐️ used
+  - Duplicate code: 🖐️ used
+  - Premature optimization: 🖐️ used
+  - Micro-optimization: 🖐️ used
   - Nested loops: 🖐️ used
   - Long method/function/procedure: 🖐️ used
   - Long inheritance: 🎓 known
-  - Large class/file: 🎓 known
+  - Large class/file: 🖐️ used
   - Too many parameters: 🖐️ used
   - Pass-through parameters: 🖐️ used
-  - Accumulate and fire: 🎓 known
-  - Use switch/case: 🎓 known
-  - Temporary field: 👂 heard
-  - Handle object as instances and hashes at the same time: 🎓 known
-  - Use fields instead of arguments: 👂 heard
+  - Accumulate and fire: 🖐️ used
+  - Use switch/case: 🖐️ used
+  - Temporary field: 🎓 known
+  - Handle object as instances and hashes at the same time: 🖐️ used
+  - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
@@ -212,7 +212,7 @@
   - Drivers: 👂 heard
   - Kernel: 👂 heard
   - Ring
-  - Virtual memory: 👂 heard
+  - Virtual memory: 🎓 known
   - File system: 🎓 known
   - Linux: 🖐️ used
   - Unix: 🖐️ used

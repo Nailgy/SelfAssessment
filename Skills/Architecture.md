@@ -5,37 +5,37 @@
   - Components: 🎓 known
   - Directories
   - GRASP: 🎓 known
-  - SOLID: 🎓 known
+  - SOLID: 🖐️ used
   - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code: 🎓 known
   - Contract programming: 👂 heard
   - Platform-agnostic: 🖐️ used
-  - Transport-agnostic
+  - Transport-agnostic: 👂 heard
   - Framework-agnostic: 👂 heard
   - Code coverage: 🎓 known
   - Cohesion: 🎓 known
   - Coupling: 🎓 known
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer: 👂 heard
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach: 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub: 👂 heard
   - Message brocker
   - Agent
   - Service locator
@@ -43,13 +43,13 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
   - UML: 🖐️ used
-  - Work breakdown structure: 🖐️ used
-  - Budget estimation: 🖐️ used
+  - Work breakdown structure: 🔬 researched
+  - Budget estimation: 🔬 researched
   - Distributed systems
-  - High-intensive computing
+  - High-intensive computing: 👂 heard
   - Load balancing
   - Gateways
   - On-premises
@@ -57,18 +57,18 @@
   - PaaS: 👂 heard
   - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 👂 heard
   - Process modelling
-  - Data modelling
+  - Data modelling: 👂 heard
   - Solution components
-  - Risk assessment
+  - Risk assessment: 🖐️ used
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs: 🖐️ used
-  - Enterprise strategy
-  - Integration with subsystems: 🎓 known
+  - Understanding business needs: 🙋 explained
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 🖐️ used
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope: 🖐️ used
+  - Project scope: 🙋 explained
   - Enterprise service bus
   - Service-oriented architecture: 👂 heard
-  - Microservices: 🎓 known
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence: 🎓 known
-  - OLAP
+  - Business Intelligence: 🖐️ used
+  - OLAP: 👂 heard
   - OLTP
   - Conways Law
-  - Quality assurance: 🖐️ used
-  - Engineering Hygiene
+  - Quality assurance: 🙋 explained
+  - Engineering Hygiene: 👂 heard
