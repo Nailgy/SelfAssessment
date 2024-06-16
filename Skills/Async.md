@@ -8,19 +8,19 @@
   - Thread pool: 👂 heard
   - Pattern Reactor: 👂 heard
   - CAS operations
-  - epoll: h 
-  - kqueue: h
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
   - Completion ports
   - Event ports
-  - libuv: h
+  - libuv: 👂 heard
   - Race conditions: 🎓 known
   - Dead locks
   - Live locks
   - Concurrent programming
   - Parallel programming: 👂 heard
   - Actor Model: 👂 heard
-  - Thread: u
-  - Process: u
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
@@ -29,14 +29,14 @@
   - Async/await: 🖐️ used
   - Future: 👂 heard
   - Deferred: 👂 heard
-  - Sync generator: u
-  - Async Generator: u
+  - Sync generator: 🖐️ used
+  - Async Generator: 🖐️ used
   - Async Iterator: 🎓 known
   - Event: 🖐️ used
   - Coroutine: 👂 heard
   - Goroutine: 👂 heard
-  - Signal: k
-  - Stream: u
+  - Signal: 🎓 known
+  - Stream: 🖐️ used
   - Chain of responsibility: 👂 heard
   - Middleware: 🎓 known
   - Locks: 👂 heard
@@ -55,8 +55,8 @@
   - Async Pool: 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 🎓 known
-  - Semaphore: k
-  - Mutex: k
+  - Semaphore: 🎓 known
+  - Mutex: 🎓 known
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers: 🖐️ used

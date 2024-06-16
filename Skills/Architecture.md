@@ -5,37 +5,37 @@
   - Components: 🎓 known
   - Directories
   - GRASP: 🎓 known
-  - SOLID: u
+  - SOLID: 🖐️ used
   - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code: 🎓 known
   - Contract programming: 👂 heard
   - Platform-agnostic: 🖐️ used
-  - Transport-agnostic: h
+  - Transport-agnostic: 👂 heard
   - Framework-agnostic: 👂 heard
   - Code coverage: 🎓 known
   - Cohesion: 🎓 known
   - Coupling: 🎓 known
   - Cyclomatic complexity
-  - Reliability: h
-  - Quality: h
-  - Availability: h
-  - Flexibility: h
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: h
-  - Domain-specific language (DSL): h
+  - Isolation between layer: 👂 heard
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach: 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
-  - Dependency injection (DI): k
-  - Clean architecture: h
-  - Domain-driven design (DDD): h
-  - Pub/sub: h
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub: 👂 heard
   - Message brocker
   - Agent
   - Service locator
@@ -43,13 +43,13 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram: k
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
   - UML: 🖐️ used
-  - Work breakdown structure: r
-  - Budget estimation: r
+  - Work breakdown structure: 🔬 researched
+  - Budget estimation: 🔬 researched
   - Distributed systems
-  - High-intensive computing: h
+  - High-intensive computing: 👂 heard
   - Load balancing
   - Gateways
   - On-premises
@@ -57,18 +57,18 @@
   - PaaS: 👂 heard
   - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless: h
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS): k
-  - Solution visions: h
-  - Solution capabilities: h
-  - System design: h
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 👂 heard
   - Process modelling
-  - Data modelling: h
+  - Data modelling: 👂 heard
   - Solution components
-  - Risk assessment: u
+  - Risk assessment: 🖐️ used
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs: e
-  - Enterprise strategy: h
-  - Integration with subsystems: u
+  - Understanding business needs: 🙋 explained
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 🖐️ used
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope: e
+  - Project scope: 🙋 explained
   - Enterprise service bus
   - Service-oriented architecture: 👂 heard
-  - Microservices: u
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence: u
-  - OLAP: h
+  - Business Intelligence: 🖐️ used
+  - OLAP: 👂 heard
   - OLTP
   - Conways Law
-  - Quality assurance: e
-  - Engineering Hygiene: h
+  - Quality assurance: 🙋 explained
+  - Engineering Hygiene: 👂 heard

@@ -5,18 +5,18 @@
   - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
   - Non-structured programming: 🖐️ used
-  - Functional programming: u
+  - Functional programming: 🖐️ used
   - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🎓 known
   - Generic programming: 🎓 known
   - Concurrent computing: 👂 heard
-  - Asynchronous programming: u
+  - Asynchronous programming: 🖐️ used
   - Parallel programming: 🎓 known
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming
-  - Domain-specific languages: h
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 🖐️ used
   - Actor model: 👂 heard
@@ -39,7 +39,7 @@
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: k
+  - Abstract class: 🎓 known
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class: 🎓 known
@@ -51,23 +51,23 @@
 - GRASP
   - Information expert
   - Creator
-  - Controller: u
+  - Controller: 🖐️ used
   - Indirection
-  - Low coupling: k
-  - High cohesion: k
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP): u
-  - Open–closed principle (OCP): k
-  - Liskov substitution principle (LSP): h
-  - Interface segregation principle (ISP): k
-  - Dependency inversion principle (DIP): k
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: k
+  - Factory Method: 🎓 known
   - Abstract Factory: 👂 heard
-  - Adapter: k
+  - Adapter: 🎓 known
   - Observer: 🎓 known
   - Strategy: 👂 heard
   - Facade: 👂 heard
@@ -87,5 +87,5 @@
   - Template Method: 👂 heard
   - Visitor
   - Reactor
-  - Active object: h
+  - Active object: 👂 heard
   - Delegation: 👂 heard

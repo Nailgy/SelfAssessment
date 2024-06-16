@@ -102,13 +102,13 @@
   - Functor: 👂 heard
   - Monad: 👂 heard
   - Monoid: 👂 heard
-  - Generator: u
+  - Generator: 🖐️ used
   - Coroutine: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - Structure: 🖐️ used
   - Record: 🖐️ used
-  - Enum: u
+  - Enum: 🖐️ used
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
@@ -134,7 +134,7 @@
 - Networking
   - DNS: 🖐️ used
   - CDN: 🖐️ used
-  - CORS: u
+  - CORS: 🖐️ used
   - IPv4: 🖐️ used
   - IPv6: 🖐️ used
   - NAT: 🖐️ used
@@ -145,7 +145,7 @@
   - Compiler: 🖐️ used
   - Just-in-time compilation: 🖐️ used
   - Ahead-of-time compilation: 🖐️ used
-  - Transpiler: k
+  - Transpiler: 🎓 known
   - Linter: 🖐️ used
   - Polyfill: 🖐️ used
   - Interpreter: 🖐️ used
@@ -178,25 +178,25 @@
   - Improbability factor: 👂 heard
   - Accidental complexity: 🎓 known
   - Action at a distance: 👂 heard
-  - Spaghetti: u
-  - Silver bullet: u
-  - Not invented here: u
-  - Dead code: u
-  - Unreachable code: u
-  - Duplicate code: u
-  - Premature optimization: u
-  - Micro-optimization: u
+  - Spaghetti: 🖐️ used
+  - Silver bullet: 🖐️ used
+  - Not invented here: 🖐️ used
+  - Dead code: 🖐️ used
+  - Unreachable code: 🖐️ used
+  - Duplicate code: 🖐️ used
+  - Premature optimization: 🖐️ used
+  - Micro-optimization: 🖐️ used
   - Nested loops: 🖐️ used
   - Long method/function/procedure: 🖐️ used
   - Long inheritance: 🎓 known
-  - Large class/file: u
+  - Large class/file: 🖐️ used
   - Too many parameters: 🖐️ used
   - Pass-through parameters: 🖐️ used
-  - Accumulate and fire: u
-  - Use switch/case: u
-  - Temporary field: k
-  - Handle object as instances and hashes at the same time: u
-  - Use fields instead of arguments: k
+  - Accumulate and fire: 🖐️ used
+  - Use switch/case: 🖐️ used
+  - Temporary field: 🎓 known
+  - Handle object as instances and hashes at the same time: 🖐️ used
+  - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
@@ -212,7 +212,7 @@
   - Drivers: 👂 heard
   - Kernel: 👂 heard
   - Ring
-  - Virtual memory: k
+  - Virtual memory: 🎓 known
   - File system: 🎓 known
   - Linux: 🖐️ used
   - Unix: 🖐️ used

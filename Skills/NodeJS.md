@@ -15,26 +15,26 @@
   - ECMAScript modules: 🖐️ used
   - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM: 👂 heard
-  - Modules as singletons: h
+  - Modules as singletons: 👂 heard
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🖐️ used
   - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection: h
+  - Dependency injection: 👂 heard
   - DI containers
-  - Coupling and cohesion: k
-  - Framework agnostic approach: h
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 👂 heard
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
-  - Clustering: h
+  - Clustering: 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
-  - Web Streams API: h
+  - Web Streams API: 👂 heard
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
@@ -43,12 +43,12 @@
   - Worker threads: 🖐️ used
   - Performance hooks
   - Native fetch and nodejs/undici: 🖐️ used
-  - async_hooks: k
+  - async_hooks: 🎓 known
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - SharedArrayBuffer: h
+  - SharedArrayBuffer: 👂 heard
   - Module `node:worker_threads`
   - Module `node:child_process`
   - MessageChannel, MessagePort
@@ -63,7 +63,7 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates: h
+  - SSL certificates: 👂 heard
   - Protocol agnostic approach
   - Fetch API: 🖐️ used
   - IncomingMessage
@@ -71,15 +71,15 @@
   - TCP/SSL: 🖐️ used
   - UDP: 🖐️ used
   - TLS: 🖐️ used
-  - Websocket: k
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling: h
-  - REST: k
-  - RPC: k
-  - Routing: u
-  - DoS: h
-  - DDoS: k
+  - Long polling: 👂 heard
+  - REST: 🎓 known
+  - RPC: 🎓 known
+  - Routing: 🖐️ used
+  - DoS: 👂 heard
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
@@ -87,20 +87,20 @@
   - SQL injection
   - noDelay
   - keep-alive
-  - IP sticky sessions: h
+  - IP sticky sessions: 👂 heard
 - Technique and tools
   - Native test runner: 👂 heard
   - Logging: 🖐️ used
-  - Application configuring: h
+  - Application configuring: 👂 heard
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform
   - Back pressure
-  - Buffer: k
-  - Console: u
-  - Inspector: k
+  - Buffer: 🎓 known
+  - Console: 🖐️ used
+  - Inspector: 🎓 known
 - Data access
   - Data access layer: 🎓 known
   - Repository: 🖐️ used
@@ -113,7 +113,7 @@
   - `Error`: 🖐️ used
   - `error.cause`: 👂 heard
   - `error.code`: 👂 heard
-  - `error.message`: h
+  - `error.message`: 👂 heard
   - `error.stack`: 👂 heard
   - `Error.captureStackTrace`: 🎓 known
   - How to avoid mixins: 👂 heard
@@ -123,7 +123,7 @@
   - Flame graph
   - Memory leaks: 🖐️ used
   - Resource leaks
-  - Data race: k
+  - Data race: 🎓 known
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons

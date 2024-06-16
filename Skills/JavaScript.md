@@ -20,14 +20,14 @@
   - Destructuring: 🖐️ used
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
-  - Async generator: u
+  - Async generator: 🖐️ used
   - Async iterator: 🎓 known
   - Chaining: 🖐️ used
-  - Optional chaining: u
+  - Optional chaining: 🖐️ used
   - IIFE: 🖐️ used
   - Async IIFE: 🎓 known
-  - `global`: u
-  - `globalThis`: u
+  - `global`: 🖐️ used
+  - `globalThis`: 🖐️ used
   - `window`: 🎓 known
   - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
@@ -38,7 +38,7 @@
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`: 🎓 known
-  - `yield`: u
+  - `yield`: 🖐️ used
   - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
@@ -54,7 +54,7 @@
   - Sealing properties: 🎓 known
   - Freezing properties: 🎓 known
   - Computed properties: 🎓 known
-  - Instance class fields: u
+  - Instance class fields: 🖐️ used
   - Static class fields: 🖐️ used
   - Private class fields: 🖐️ used
   - Private class methods: 🖐️ used
@@ -95,14 +95,14 @@
   - `Set`: 🖐️ used
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
-  - Typed arrays: u
+  - Typed arrays: 🖐️ used
   - Mixins: 🖐️ used
   - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
-  - `Math`: r
+  - `Math`: 🔬 researched
   - `Reflect`: 🎓 known
   - `Error`: 🙋 explained
   - `Atomics`: 🎓 known
@@ -110,7 +110,7 @@
   - `WeakRef`: 🎓 known
   - `FinalizationRegistry`: 👂 heard
   - `Intl`: 👂 heard
-  - `Promise`: u
+  - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure

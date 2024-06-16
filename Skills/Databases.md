@@ -15,12 +15,12 @@
   - Column databases: 🎓 known
   - Navigational databases
   - Hierarchical databases: 👂 heard
-  - In-memory databases: h
+  - In-memory databases: 👂 heard
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL): k
+  - Data query language (DQL): 🎓 known
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms
@@ -28,7 +28,7 @@
   - Primary keys: 🖐️ used
   - Foreign keys: 🖐️ used
   - Transactions
-  - Views: k
+  - Views: 🎓 known
   - Subqueries
   - Stored procedures
   - SQL functions: 👂 heard
@@ -44,38 +44,38 @@
   - `OFFSET`: 🎓 known
   - `ORDER BY`: 🖐️ used
   - `GROUP BY`: 🖐️ used
-  - `HAVING`: u
+  - `HAVING`: 🖐️ used
   - `EXISTS`: 🖐️ used
-  - `JOIN`: u
-  - `INNER JOIN`: u
-  - `LEFT JOIN`: u
-  - `RIGHT JOIN`: u
-  - `UNION`: u
-  - `DISTINCT`: u
-  - `WHERE`: u
-  - `LIKE`: u
-  - `IN`: u
-  - `BETWEEN`: u
-  - `CREATE TABLE`: u
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`: 🎓 known
-  - `DROP TABLE`: u
-  - `PRIMARY KEY`: u
-  - `FOREIGN KEY`: u
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`: 🎓 known
   - `DEFAULT`: 🎓 known
-  - `INDEX`: u
-  - `UNIQUE`: u
-  - `GRANT`: u
-  - `REVOKE`: u
-  - `DENY`: u
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
+  - `GRANT`: 🖐️ used
+  - `REVOKE`: 🖐️ used
+  - `DENY`: 🖐️ used
   - `EXPLAIN`: 🎓 known
 - Engines
-  - PostgreSQL: k
+  - PostgreSQL: 🎓 known
   - Oracle: 👂 heard
-  - MySQL: u
+  - MySQL: 🖐️ used
   - MariaDB: 👂 heard
   - MS SQL Server: 👂 heard
-  - Redis: k
+  - Redis: 🎓 known
   - Rabbit: 👂 heard
   - MongoDB: 🖐️ used
   - Memcached: 👂 heard
@@ -86,7 +86,7 @@
   - Firebase: 👂 heard
 - Data engineering
   - Data warehousing: 👂 heard
-  - Business intelligence: k
+  - Business intelligence: 🎓 known
   - Big data: 👂 heard
   - Data analysis: 👂 heard
   - AI tools: 👂 heard

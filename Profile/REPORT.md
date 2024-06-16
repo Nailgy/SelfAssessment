@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-520&nbsp;/&nbsp;718&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Nailgy/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-580&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Nailgy/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-520&nbsp;/&nbsp;718&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Nailgy/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-580&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Nailgy/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Nailgy/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-520&nbsp;/&nbsp;718&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/Nailgy/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-580&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -20,8 +20,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `8` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `23` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `26` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `8` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `25` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `9` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `26` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `26` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `12` | `13` |
@@ -34,7 +34,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `14` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `11` | `20` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `14` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `18` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `11` | `11` |
@@ -42,25 +42,25 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `6` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `7` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `6` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `2` | `6` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `4` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Network | `6` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `6` | `12` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `10` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `3` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `7` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network | `15` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `10` | `12` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data access | `5` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `11` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `12` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `2` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `22` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `23` | `25` |
 | &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `20` | `21` |
-| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `19` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `3` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `20` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `12` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `8` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `2` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `7` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `17` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `17` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `8` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `10` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
@@ -68,30 +68,24 @@
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `72` of `72` skills, `0` to be upgraded, and `33` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `34` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Async generator | 🎓 known | ⟶  | 🖐️ used |
 | Async iterator | 🎓 known | ⟶  | 🖐️ used |
 | Async IIFE | 🎓 known | ⟶  | 🖐️ used |
-| `global` | 🎓 known | ⟶  | 🖐️ used |
-| `globalThis` | 🎓 known | ⟶  | 🖐️ used |
 | `void` | 🎓 known | ⟶  | 🖐️ used |
-| `yield` | 🎓 known | ⟶  | 🖐️ used |
 | `static` | 🎓 known | ⟶  | 🖐️ used |
-| `Promise` | 🎓 known | ⟶  | 🖐️ used |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `88` of `98` skills, `10` to be upgraded, and `17` above needed
+Total: you have `93` of `98` skills, `5` to be upgraded, and `19` above needed
 
 ## [Async](/Skills/Async.md)
 
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Signal | 👂 heard | ⟶  | 🖐️ used |
-| Stream | 👂 heard | ⟶  | 🖐️ used |
+| Signal | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 👂 heard | ⟶  | 🎓 known |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
 | AbortController | 👂 heard | ⟶  | 🖐️ used |
@@ -107,12 +101,10 @@ Total: you have `88` of `98` skills, `10` to be upgraded, and `17` above needed
 | Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
 | Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `34` of `50` skills, `16` to be upgraded, and `9` above needed
+Total: you have `35` of `50` skills, `15` to be upgraded, and `13` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Signal | 👂 heard | ⟶  | 🎓 known |
-| Stream | 👂 heard | ⟶  | 🎓 known |
 | Transform | 👂 heard | ⟶  | 🎓 known |
 | AbortController | 👂 heard | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
@@ -124,27 +116,22 @@ Total: you have `34` of `50` skills, `16` to be upgraded, and `9` above needed
 | Promise.any | 🎓 known | ⟶  | 🖐️ used |
 | Revealing constructor | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `25` of `37` skills, `12` to be upgraded, and `8` above needed
+Total: you have `27` of `37` skills, `10` to be upgraded, and `9` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | Thread pool | 👂 heard | ⟶  | 🎓 known |
 | Pattern Reactor | 👂 heard | ⟶  | 🎓 known |
 | CAS operations | 🤷 unknown | ⟶  | 👂 heard |
-| libuv | 🤷 unknown | ⟶  | 🎓 known |
+| libuv | 👂 heard | ⟶  | 🎓 known |
 | Race conditions | 🎓 known | ⟶  | 🖐️ used |
 | Dead locks | 🤷 unknown | ⟶  | 🖐️ used |
 | Live locks | 🤷 unknown | ⟶  | 🖐️ used |
 | Concurrent programming | 🤷 unknown | ⟶  | 🎓 known |
 | Parallel programming | 👂 heard | ⟶  | 🎓 known |
 | Actor Model | 👂 heard | ⟶  | 🎓 known |
-| Thread | 👂 heard | ⟶  | 🖐️ used |
-| Process | 🎓 known | ⟶  | 🖐️ used |
-| Sync generator | 🎓 known | ⟶  | 🖐️ used |
-| Async Generator | 🎓 known | ⟶  | 🖐️ used |
 | Async Iterator | 🎓 known | ⟶  | 🖐️ used |
-| Signal | 👂 heard | ⟶  | 🖐️ used |
-| Stream | 👂 heard | ⟶  | 🖐️ used |
+| Signal | 🎓 known | ⟶  | 🖐️ used |
 | Chain of responsibility | 👂 heard | ⟶  | 🖐️ used |
 | Middleware | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 👂 heard | ⟶  | 🖐️ used |
@@ -155,8 +142,7 @@ Total: you have `25` of `37` skills, `12` to be upgraded, and `8` above needed
 | Async Pool | 🎓 known | ⟶  | 🖐️ used |
 | Async Queue | 🎓 known | ⟶  | 🖐️ used |
 | Async Collector | 🎓 known | ⟶  | 🖐️ used |
-| Semaphore | 👂 heard | ⟶  | 🖐️ used |
-| Mutex | 👂 heard | ⟶  | 🎓 known |
+| Semaphore | 🎓 known | ⟶  | 🖐️ used |
 | Spin Lock | 👂 heard | ⟶  | 🎓 known |
 | AbortController | 👂 heard | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🖐️ used |
@@ -178,7 +164,7 @@ Total: you have `25` of `37` skills, `12` to be upgraded, and `8` above needed
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 | Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `26` of `75` skills, `49` to be upgraded, and `5` above needed
+Total: you have `32` of `75` skills, `43` to be upgraded, and `5` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
@@ -186,29 +172,29 @@ Total: you have `26` of `75` skills, `49` to be upgraded, and `5` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `26` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `40` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `33` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `50` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `26` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `40` above needed
 
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `18` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `28` above needed
 
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `28` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `44` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `41` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `62` above needed
