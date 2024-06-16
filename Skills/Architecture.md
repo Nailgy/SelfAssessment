@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
+  - Modularity: h
+  - Components: k
   - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP: k
+  - SOLID: k
+  - GoF patterns: h
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Multiparadigm code: k
+  - Contract programming: h
+  - Platform-agnostic: u
   - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Framework-agnostic: h
+  - Code coverage: k
+  - Cohesion: k
+  - Coupling: k
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -27,10 +27,10 @@
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach: h
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming: k
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -45,17 +45,17 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
-  - Work breakdown structure
-  - Budget estimation
+  - UML: u
+  - Work breakdown structure: u
+  - Budget estimation: u
   - Distributed systems
   - High-intensive computing
   - Load balancing
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS: h
+  - PaaS: h
+  - SaaS: h
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -72,29 +72,29 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code: u
+  - No-code: u
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs: u
   - Enterprise strategy
-  - Integration with subsystems
+  - Integration with subsystems: k
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: u
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture: h
+  - Microservices: k
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
+  - Business Intelligence: k
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance: u
   - Engineering Hygiene
