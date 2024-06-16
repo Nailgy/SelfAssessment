@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: h
-  - Stateful and stateless servers: h
-  - Nonblocking I/O and blocking code: k
-  - Event loop phases: h
-  - Event loop microtasks and macrotasks: h
-  - Garbage collection: k
-  - Node.js LTS schedule: h
+  - Strong and weak sides of node.js: 👂 heard
+  - Stateful and stateless servers: 👂 heard
+  - Nonblocking I/O and blocking code: 🎓 known
+  - Event loop phases: 👂 heard
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: u
-  - ECMAScript modules: u
-  - Module `node:module`: u
-  - Caching in CJS and ESM: h
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - Module `node:module`: 🖐️ used
+  - Caching in CJS and ESM: 👂 heard
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`: u
-  - Files `package.json`, `package-lock.json`: u
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: u
-  - Node.js CLI: h
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,11 +38,11 @@
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async): u
-  - Copy folder recursively: u
-  - Worker threads: u
+  - File system API (sync and async): 🖐️ used
+  - Copy folder recursively: 🖐️ used
+  - Worker threads: 🖐️ used
   - Performance hooks
-  - Native fetch and nodejs/undici: u
+  - Native fetch and nodejs/undici: 🖐️ used
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -65,12 +65,12 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API: u
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S): u
-  - TCP/SSL: u
-  - UDP: u
-  - TLS: u
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
@@ -83,47 +83,47 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS: k
+  - DNS: 🎓 known
   - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner: h
-  - Logging: u
+  - Native test runner: 👂 heard
+  - Logging: 🖐️ used
   - Application configuring
-  - Testing: u
-  - CI/CD: u
-  - Readable: u
-  - Writable: u
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Back pressure
   - Buffer
   - Console
   - Inspector
 - Data access
-  - Data access layer: k
-  - Repository: u
-  - Active record: h
-  - Query builder: h
+  - Data access layer: 🎓 known
+  - Repository: 🖐️ used
+  - Active record: 👂 heard
+  - Query builder: 👂 heard
   - Object-Relational Mapping
-  - CRUD: u
+  - CRUD: 🖐️ used
   - DTO
 - Error handling and debugging
-  - `Error`: u
-  - `error.cause`: h
-  - `error.code`: h
+  - `Error`: 🖐️ used
+  - `error.cause`: 👂 heard
+  - `error.code`: 👂 heard
   - `error.message`:h
-  - `error.stack`: h
-  - `Error.captureStackTrace`: k
-  - How to avoid mixins: h
-  - Uncaught exceptions: u
-  - Heap dump: k
-  - Debugging tools: u
+  - `error.stack`: 👂 heard
+  - `Error.captureStackTrace`: 🎓 known
+  - How to avoid mixins: 👂 heard
+  - Uncaught exceptions: 🖐️ used
+  - Heap dump: 🎓 known
+  - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks: u
+  - Memory leaks: 🖐️ used
   - Resource leaks
-  - Data race: h
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory: h
-  - V8 binary serialization: k
+  - Shared memory: 👂 heard
+  - V8 binary serialization: 🎓 known

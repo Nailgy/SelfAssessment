@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity: h
-  - Components: k
+  - Modularity: 👂 heard
+  - Components: 🎓 known
   - Directories
-  - GRASP: k
-  - SOLID: k
-  - GoF patterns: h
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
-  - Multiparadigm code: k
-  - Contract programming: h
-  - Platform-agnostic: u
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 🖐️ used
   - Transport-agnostic
-  - Framework-agnostic: h
-  - Code coverage: k
-  - Cohesion: k
-  - Coupling: k
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🎓 known
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -27,10 +27,10 @@
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach: h
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming: k
+  - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -45,17 +45,17 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML: u
-  - Work breakdown structure: u
-  - Budget estimation: u
+  - UML: 🖐️ used
+  - Work breakdown structure: 🖐️ used
+  - Budget estimation: 🖐️ used
   - Distributed systems
   - High-intensive computing
   - Load balancing
   - Gateways
   - On-premises
-  - IaaS: h
-  - PaaS: h
-  - SaaS: h
+  - IaaS: 👂 heard
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -72,29 +72,29 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code: u
-  - No-code: u
+  - Low-code: 🖐️ used
+  - No-code: 🖐️ used
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs: u
+  - Understanding business needs: 🖐️ used
   - Enterprise strategy
-  - Integration with subsystems: k
+  - Integration with subsystems: 🎓 known
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope: u
+  - Project scope: 🖐️ used
   - Enterprise service bus
-  - Service-oriented architecture: h
-  - Microservices: k
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence: k
+  - Business Intelligence: 🎓 known
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance: u
+  - Quality assurance: 🖐️ used
   - Engineering Hygiene
